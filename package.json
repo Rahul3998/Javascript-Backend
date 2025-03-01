@@ -1,0 +1,20 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "Javascript Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Javascript",
+    "Backend",
+    "JS",
+    "Node.js",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Rahul Adagale",
+  "license": "ISC"
+}
